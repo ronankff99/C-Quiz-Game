@@ -1,0 +1,4 @@
+File used: quiz.txt
+Questions answered correctly: 4
+Total number of questions: 5
+Difficulty level: 6
